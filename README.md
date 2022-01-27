@@ -1,2 +1,2 @@
 # mfama
-# Ecommerce Android Application
+# Ecommerce WEbsite Application
